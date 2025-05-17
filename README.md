@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-Mrk
 - 👀 I’m interested in IoT and Networkengineering
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Python
 
 
 <!---
